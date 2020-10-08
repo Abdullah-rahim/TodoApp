@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(49, 174, 247);
+}
+
+.container {
+    text-align: center;
+}
+
+input {
+    margin-top: 50px;
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+    outline: none;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+}
+
+button {
+    margin-left: 30px;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+}
+
+button:hover {
+    background-color: rgb(11, 235, 115);
+    color: white;
+}
+
+.list-1 {
+    padding-top: 20px;
+    list-style: none;
+    color: white;
+    font-size: 30px;
+}
